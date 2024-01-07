@@ -11,4 +11,4 @@
 1. Rosmawati 1102221016
 
 Repository untuk source code database MySQL AChatt!
-Source code ada di sini >> [SourceCode Achatt.sql](https://github.com/AgungSukaAFK/Kel3_SBD_jumat_9.40-database_src/edit/main/README.md)
+Source code ada di sini >> [SourceCode Achatt.sql](https://github.com/AgungSukaAFK/Kel3_SBD_jumat_9.40-database_src/edit/main/achatt.sql)
